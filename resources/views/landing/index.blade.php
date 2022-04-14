@@ -5,12 +5,12 @@
     <div class="landing-banner__container flex flex-column align-items-center justify-content-space-between">
         <div class="landing-banner__profile flex flex-column align-items-center">
             <img src="images/profile.jpg" class="profile-image"/>
-            <span>Hi, I'm Armaan 🤟</span>
+            <span>Hi, I'm akshay singh </span>
         </div>
 
         <div class="landing-banner__banner">
             <div class="landing-banner__banner__banner-text">
-                Building fluid front-end and scalable back-end
+                I'm a software developer and UI/UX designer, with expertise in ReactJs.
             </div>
         </div>
         <a href="/resume.pdf" class="download-button flex flex-row align-items-center justify-content-space-between" target="_blank">
@@ -45,24 +45,24 @@
                 </div>
 
                 <div class="skills__card card flex flex-column align-items-center justify-content-space-around">
-                        <img src="https://img.icons8.com/fluent/80/000000/laravel.png"/>
+                        <img src="https://img.icons8.com/fluency/48/000000/laptop-coding.png"/>
                         <span class="card__info flex flex-column align-items-center">
-                        <h3>Laravel</h6>
-                        <span style="text-align:center;line-height:1;">PHP's MVC framework</span>
+                        <h3>Problem solving</h6>
+                        <span style="text-align:center;line-height:1;">Problem solving/competitive coding in C++</span>
                     </span>
                 </div>
                 <div class="skills__card card flex flex-column align-items-center justify-content-space-around">
-                        <img src="https://img.icons8.com/color/80/000000/java-coffee-cup-logo.png"/>
+                        <img src="https://img.icons8.com/color/48/000000/webflow.png"/>
                         <span class="card__info flex flex-column align-items-center">
-                        <h3>Java2E & JPA</h6>
-                        <span style="text-align:center;line-height:1;">Building Scalable enterprise application</span>
+                        <h3>Webflow</h6>
+                        <span style="text-align:center;line-height:1;">Building Scalable enterprise landing page, E-commerce site, blogs in Webflow</span>
                     </span>
                 </div>
                 <div class="skills__card card flex flex-column align-items-center justify-content-space-around">
-                    <img src="https://img.icons8.com/color/80/000000/chemical-test.png"/>
+                    <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
                     <span class="card__info flex flex-column align-items-center">
-                        <h3>Testable & Efficient</h6>
-                        <span style="text-align:center;line-height:1;">SDLC cycle and building secure & tested apps</span>
+                        <h3>UI/UX designing</h6>
+                        <span style="text-align:center;line-height:1;">UI designing in Figma/sketch</span>
                     </span>
                 </div>
             </div>

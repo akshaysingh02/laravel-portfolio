@@ -34,3 +34,5 @@ class CreateProjectLinksTable extends Migration
         Schema::dropIfExists('project_links');
     }
 }
+
+// 2021_02_28_195116_create_project_links_table.php

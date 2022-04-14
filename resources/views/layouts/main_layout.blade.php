@@ -16,16 +16,16 @@
 </head>
 <body>
 <div class="header flex flex-row justify-content-space-between">
-    <a href="/"><div class="logo">armaan@portfolio</div></a>
+    <a href="/"><div class="logo">akshay@portfolio</div></a>
 
     <nav class=" flex flex-row justify-content-space-around align-items-center">
         <a href="/" class="{{Request::is('/')?'current':''}} text-link">Home</a>
         <a href="/projects/index" class="{{Request::is('projects/index')?'current-page':''}} text-link">Projects</a>
-        <a href="https://github.com/ArmaanSinghKlair" class="social-media-link">
+        <a href="https://github.com/akshaysingh02" class="social-media-link">
             <img src="https://img.icons8.com/fluent/28/000000/github.png"/>
         </a>
 
-        <a href="https://www.linkedin.com/in/armaan-singh-klair/" class="social-media-link">
+        <a href="https://www.linkedin.com/in/akshaysingh02/" class="social-media-link">
             <img src="https://img.icons8.com/metro/28/000000/linkedin.png"/>
         </a>
     </nav>
@@ -38,17 +38,16 @@
         <nav class=" flex flex-row justify-content-space-around align-center">
             <a href="/" class="{{Request::is('/')?'current':''}} text-link">Home</a>
             <a href="/projects/index" class="{{Request::is('projects/index')?'current-page':''}} text-link">Projects</a>
-            <a href="https://icons8.com/">Icons</a>
-            <a href="https://github.com/ArmaanSinghKlair" class="social-media-link">
+            <a href="https://github.com/akshaysingh02" class="social-media-link">
                 <img src="https://img.icons8.com/fluent/28/000000/github.png"/>
             </a>
 
-            <a href="https://www.linkedin.com/in/armaan-singh-klair/" class="social-media-link">
+            <a href="https://www.linkedin.com/in/akshaysingh02/" class="social-media-link">
                 <img src="https://img.icons8.com/metro/28/000000/linkedin.png"/>
             </a>
 
         </nav>
-            <a href="/"><div class="logo">armaan@portfolio</div></a>
+            <a href="/"><div class="logo">akshay@portfolio</div></a>
         </div>
 </body>
 </html>
