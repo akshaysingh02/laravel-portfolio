@@ -3,7 +3,6 @@
 <h1>Portfolio in Laravel and MySQL</h1>
 I used laravel eloquent model to create relationships between the user(Me) and my projects (one-many) which made fetching specific or all projects easier in the controllers
 
-## Modern UI (Responsive) -- I spent a good amount of figuring out the design of the website (Looks best on desktop PC)
+## Modern UI (Responsive)
 It designed and coded in such a way that its easy responsive across all devices
 
-### I hosted it using a free account on heroku and a free remote MySQL account - (Some users might face some latency issues -- due to my free plan for MySQL -- sorry for that, still a college student)
