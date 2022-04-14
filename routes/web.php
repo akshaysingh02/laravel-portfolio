@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\NewProject;
 use App\Http\Controllers\ProjectController;
 use Illuminate\Support\Facades\Route;
 
@@ -19,3 +20,7 @@ Route::get('/', [ProjectController::class, 'landing']);
 Route::get('/projects/index',[ProjectController::class, 'index'])->name('projects.index');
 
 Route::get('/projects/show',[ProjectController::class, 'show'])->name('projects.show');
+
+Route::view('form','projects/createproject');
+
+Route::post('submit', [NewProject::class, 'save']);
